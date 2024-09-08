@@ -4,9 +4,11 @@ import SliderArea from './Components/SliderArea'
 import Portfolio from './Components/Portfolio'
 import Resume from './Components/Resume'
 import Contact from './Components/Contact'
+import { BrowserRouter } from 'react-router-dom'
 
 const App = () => {
   return (
+    <BrowserRouter>
     <div>
       <Header />
 
@@ -17,6 +19,7 @@ const App = () => {
         <Contact/>
       </div >
     </div>
+    </BrowserRouter>
   )
 }
 
