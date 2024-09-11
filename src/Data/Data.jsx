@@ -18,37 +18,37 @@ export const portfolioData = [
     {
         name : "Shopfic",
         website_link : "https://shopfic-ecommerce-app.vercel.app/",
-        img : "/assets/shopfic.png"
+        img : "/assets/websites/shopfic.png"
     },
     {
         name : "Hotel Booking",
         website_link : "https://hotel-booking-avinash.netlify.app/",
-        img : "/assets/websites/.png"
+        img : "/assets/websites/hotelbooking.png"
     },
     {
         name : "Abhinav Portfolio",
         website_link : "https://abhinavdesignhub.ca",
-        img : "/assets/abhinav.png"
+        img : "/assets/websites/abhinav.png"
     },
     {
         name : "Srishti TMT",
         website_link : "https://shrishtiitmt.com",
-        img : "/assets/srishti.png"
+        img : "/assets/websites/srishti.png"
     },
     {
         name : "Youtube clone",
         website_link : "https://main--youtube-clone-lite-avinash.netlify.app/",
-        img : "/assets/youtube.png"
+        img : "/assets/websites/youtube.png"
     },
     {
         name : "Pintrest clone",
         website_link : "https://pintrest-clone-git-main-avinash-123-del.vercel.app/",
-        img : "/assets/pintrest.png"
+        img : "/assets/websites/pintrest.png"
     },
     {
         name : "Navdurga Group",
         website_link : "https://navdurgagroup.in/",
-        img : "/assets/navdurga.png"
+        img : "/assets/websites/navdurga.png"
     },
 ]
 
@@ -56,32 +56,32 @@ export const socialLinks = [
     {
         name : "facebook",
         img : "/assets/images/icons/facebook.svg",
-        link : ""
+        link : "https://www.facebook.com/bobby.chandu.921"
     },
     {
         name : "instagram",
         img : "/assets/images/icons/instagram.svg",
-        link : ""
+        link : "https://www.instagram.com/aviiii7071/"
     },
     {
         name : "linkedin",
         img : "/assets/images/icons/linkedin.svg",
-        link : ""
+        link : "https://www.linkedin.com/in/avinash-chandraker-99a667149/"
     },
     {
         name : "whatsapp",
         img : "/assets/images/icons/whatsapp.svg",
-        link : ""
+        link : "https://wa.me/6268745654?text=I'm%20interested%20to%20work%20with%20you"
     },
     {
         name : "github",
         img : "/assets/images/icons/github.svg",
-        link : ""
+        link : "https://github.com/avinash-123-del?tab=repositories"
     },
-    {
+    {   
         name : "gmail",
         img : "/assets/images/icons/gmail.svg",
-        link : ""
+        link : "mailto:avichandraker@gmail.com"
     },
 ]
 
